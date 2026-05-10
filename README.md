@@ -4,7 +4,7 @@
 
   <h1>Javier R.</h1>
 
-  <p><b>Desarrolladora Frontend|Backend · Creativa con enfoque técnico · Amante del diseño minimalista</b></p>
+  <p><b>Desarrollador Frontend|Backend · Creativo con enfoque técnico · Amante del diseño minimalista y gatos</b></p>
 
   <br>
 
